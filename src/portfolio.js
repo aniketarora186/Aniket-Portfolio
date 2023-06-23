@@ -24,45 +24,42 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1lWHn5BOwMvLdx5RCvH9yjs_CiyGIgT8t/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1nd3wmwpD6u6YYIvF5ISTUCwMG5HFJ-TB/view?usp=drivesdk",
   portfolio_repository: "",
   githubProfile: "https://github.com/aniketarora186",
 };
 
 const socialMediaLinks = [
-
   {
     name: "Github",
     link: "https://github.com/aniketarora186",
-    fontAwesomeIcon: "fa-github", 
+    fontAwesomeIcon: "fa-github",
     backgroundColor: "#181717",
   },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/aniketarora98/",
-    fontAwesomeIcon: "fa-linkedin-in", 
-    backgroundColor: "#0077B5", 
+    fontAwesomeIcon: "fa-linkedin-in",
+    backgroundColor: "#0077B5",
   },
-  
+
   {
     name: "Gmail",
     link: "mailto:9893107186annu@gmail.com",
-    fontAwesomeIcon: "fa-google", 
-    backgroundColor: "#D14836", 
+    fontAwesomeIcon: "fa-google",
+    backgroundColor: "#D14836",
   },
- 
- 
+
   {
     name: "Instagram",
     link: "https://instagram.com/the_aniketarora?igshid=ZDc4ODBmNjlmNQ==",
-    fontAwesomeIcon: "fa-instagram", 
+    fontAwesomeIcon: "fa-instagram",
     backgroundColor: "#E4405F",
   },
 ];
 
 const skills = {
   data: [
-  
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
@@ -121,12 +118,8 @@ const skills = {
             color: "#CB3837",
           },
         },
-       
-       
-        
       ],
     },
-  
   ],
 };
 
@@ -149,8 +142,7 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerrank.com/9893107186annu?hr_r=1",
     },
-   
-   
+
     {
       siteName: "Hackerearth",
       iconifyClassname: "simple-icons:hackerearth",
@@ -159,7 +151,6 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerearth.com/@9893107186annu",
     },
-   
   ],
 };
 
@@ -174,7 +165,6 @@ const degrees = {
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Artificial Intelligence, Blockchain Technology, Cloud Computing and Full Stack Development.",
-        
       ],
       website_link: "",
     },
@@ -186,7 +176,6 @@ const degrees = {
       duration: "2017 - 2020",
       descriptions: [
         "⚡ Selected as INSPIRE SCHOLAR by Deptt. of Science and Technology, Govt. of India.",
-        
       ],
       website_link: "",
     },
@@ -200,7 +189,6 @@ const degrees = {
       descriptions: [
         "⚡ Selected in Madhya Pradesh Mission Excellence 2015 by Deptt. of Science and Technology, Govt. of Madhya Pradesh.",
         "⚡ Madhya Pradesh State Topper 2017 in Higher Secondary Examination.",
-        
       ],
       website_link: "",
     },
@@ -209,9 +197,6 @@ const degrees = {
 
 const certifications = {
   certifications: [
-  
-    
-   
     {
       title: "Artificial Intelligence",
       subtitle: "",
@@ -230,7 +215,7 @@ const certifications = {
       alt_name: "",
       color_code: "#FB6376",
     },
-  
+
     {
       title: "Blockchain and its Applications",
       subtitle: "",
@@ -240,10 +225,8 @@ const certifications = {
       alt_name: "",
       color_code: "#FFBB0099",
     },
-   
   ],
 };
-
 
 // Projects Page
 const projectsHeader = {
@@ -252,10 +235,6 @@ const projectsHeader = {
     "My projects makes use of vast variety of latest technology tools. My best experience is to create Web Based Applications.",
   avatar_image_path: "projects_image.svg",
 };
-
-
-
-
 
 // Contact Page
 const contactPageData = {
