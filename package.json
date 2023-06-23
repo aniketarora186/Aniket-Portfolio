@@ -2,7 +2,7 @@
   "private": true,
   "name": "aniket-portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://aniketarora186.github.io/Aniket-Portfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
