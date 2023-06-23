@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Aniket-Portfolio/static/css/main.398922ae.chunk.css",
-    "main.js": "/Aniket-Portfolio/static/js/main.32481ba0.chunk.js",
-    "main.js.map": "/Aniket-Portfolio/static/js/main.32481ba0.chunk.js.map",
+    "main.js": "/Aniket-Portfolio/static/js/main.b217647f.chunk.js",
+    "main.js.map": "/Aniket-Portfolio/static/js/main.b217647f.chunk.js.map",
     "runtime-main.js": "/Aniket-Portfolio/static/js/runtime-main.f6d96657.js",
     "runtime-main.js.map": "/Aniket-Portfolio/static/js/runtime-main.f6d96657.js.map",
     "static/js/2.92ca2142.chunk.js": "/Aniket-Portfolio/static/js/2.92ca2142.chunk.js",
     "static/js/2.92ca2142.chunk.js.map": "/Aniket-Portfolio/static/js/2.92ca2142.chunk.js.map",
     "index.html": "/Aniket-Portfolio/index.html",
-    "precache-manifest.31053b00c3049d05bc4be889972c0e90.js": "/Aniket-Portfolio/precache-manifest.31053b00c3049d05bc4be889972c0e90.js",
+    "precache-manifest.1b5290d762916b4b32599d827d141ecd.js": "/Aniket-Portfolio/precache-manifest.1b5290d762916b4b32599d827d141ecd.js",
     "service-worker.js": "/Aniket-Portfolio/service-worker.js",
     "static/css/main.398922ae.chunk.css.map": "/Aniket-Portfolio/static/css/main.398922ae.chunk.css.map",
     "static/media/index.css": "/Aniket-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.f6d96657.js",
     "static/js/2.92ca2142.chunk.js",
     "static/css/main.398922ae.chunk.css",
-    "static/js/main.32481ba0.chunk.js"
+    "static/js/main.b217647f.chunk.js"
   ]
 }
