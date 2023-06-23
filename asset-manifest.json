@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.c52e2d6b.chunk.css",
-    "main.js": "/static/js/main.294f8e78.chunk.js",
-    "main.js.map": "/static/js/main.294f8e78.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1561e376.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1561e376.js.map",
-    "static/js/2.facb3113.chunk.js": "/static/js/2.facb3113.chunk.js",
-    "static/js/2.facb3113.chunk.js.map": "/static/js/2.facb3113.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0bd3bda87c9a09bdd66aeaea188b453d.js": "/precache-manifest.0bd3bda87c9a09bdd66aeaea188b453d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.c52e2d6b.chunk.css.map": "/static/css/main.c52e2d6b.chunk.css.map",
-    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Aniket.jpg": "/static/media/Aniket.0fbc0f07.jpg",
-    "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
-    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/mits.png": "/static/media/mits.d71b8474.png",
-    "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
-    "static/media/tcs.png": "/static/media/tcs.5f4a6393.png"
+    "main.css": "/Aniket-Portfolio/static/css/main.398922ae.chunk.css",
+    "main.js": "/Aniket-Portfolio/static/js/main.32481ba0.chunk.js",
+    "main.js.map": "/Aniket-Portfolio/static/js/main.32481ba0.chunk.js.map",
+    "runtime-main.js": "/Aniket-Portfolio/static/js/runtime-main.f6d96657.js",
+    "runtime-main.js.map": "/Aniket-Portfolio/static/js/runtime-main.f6d96657.js.map",
+    "static/js/2.92ca2142.chunk.js": "/Aniket-Portfolio/static/js/2.92ca2142.chunk.js",
+    "static/js/2.92ca2142.chunk.js.map": "/Aniket-Portfolio/static/js/2.92ca2142.chunk.js.map",
+    "index.html": "/Aniket-Portfolio/index.html",
+    "precache-manifest.31053b00c3049d05bc4be889972c0e90.js": "/Aniket-Portfolio/precache-manifest.31053b00c3049d05bc4be889972c0e90.js",
+    "service-worker.js": "/Aniket-Portfolio/service-worker.js",
+    "static/css/main.398922ae.chunk.css.map": "/Aniket-Portfolio/static/css/main.398922ae.chunk.css.map",
+    "static/media/index.css": "/Aniket-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Aniket.jpg": "/Aniket-Portfolio/static/media/Aniket.0fbc0f07.jpg",
+    "static/media/contactMail.png": "/Aniket-Portfolio/static/media/contactMail.5f915405.png",
+    "static/media/all.css": "/Aniket-Portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/mits.png": "/Aniket-Portfolio/static/media/mits.d71b8474.png",
+    "static/media/nptel_logo.png": "/Aniket-Portfolio/static/media/nptel_logo.95a12a2b.png",
+    "static/media/tcs.png": "/Aniket-Portfolio/static/media/tcs.5f4a6393.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1561e376.js",
-    "static/js/2.facb3113.chunk.js",
-    "static/css/main.c52e2d6b.chunk.css",
-    "static/js/main.294f8e78.chunk.js"
+    "static/js/runtime-main.f6d96657.js",
+    "static/js/2.92ca2142.chunk.js",
+    "static/css/main.398922ae.chunk.css",
+    "static/js/main.32481ba0.chunk.js"
   ]
 }
